@@ -1,0 +1,175 @@
+{
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders & Tracking",
+      "faqs": [
+        {
+          "id": "ord_001",
+          "question": "How do I track my order?",
+          "answer": "You can track your order by signing in to your account, opening the 'My Orders' section, and clicking the 'Track' button next to the relevant order. You can also use the tracking link in your shipping confirmation email."
+        },
+        {
+          "id": "ord_002",
+          "question": "Where is my order?",
+          "answer": "Most orders are processed within 24 hours and shipped within 1–2 business days. Once shipped, delivery usually takes 3–5 business days. You can see the latest status in 'My Orders' or using your tracking link."
+        },
+        {
+          "id": "ord_003",
+          "question": "How long does shipping take?",
+          "answer": "Standard shipping usually takes 3–5 business days after dispatch. Express shipping, where available, delivers within 1–2 business days. Remote areas may require additional time."
+        },
+        {
+          "id": "ord_004",
+          "question": "Can I change my delivery address after placing an order?",
+          "answer": "If your order has not yet been packed or shipped, you can request an address change from the 'My Orders' page or by contacting support. Once the order is shipped, the address cannot be changed."
+        },
+        {
+          "id": "ord_005",
+          "question": "Can I cancel my order?",
+          "answer": "You can cancel an order from the 'My Orders' page as long as it is still in the 'Processing' stage. Once it has been packed or shipped, cancellation is no longer possible, but you may initiate a return after delivery."
+        },
+        {
+          "id": "ord_006",
+          "question": "Why is my order delayed?",
+          "answer": "Orders may be delayed due to high demand, logistics issues, weather conditions, or carrier delays. Please check your tracking information for the latest updates, or contact support if your order is delayed beyond the expected delivery date."
+        }
+      ]
+    },
+    {
+      "id": "shipping",
+      "name": "Shipping",
+      "faqs": [
+        {
+          "id": "shp_001",
+          "question": "What are your shipping charges?",
+          "answer": "Shipping charges depend on the delivery address, order value, and shipping method. The exact shipping cost will be shown on the checkout page before you confirm your order."
+        },
+        {
+          "id": "shp_002",
+          "question": "Do you offer free shipping?",
+          "answer": "We offer free standard shipping on orders above the minimum order value specified on our website. The free‑shipping threshold may vary during promotions or in specific regions."
+        },
+        {
+          "id": "shp_003",
+          "question": "Do you ship internationally?",
+          "answer": "International shipping is available to selected countries. Availability, shipping charges, and delivery times will be displayed at checkout after you enter the destination address."
+        },
+        {
+          "id": "shp_004",
+          "question": "I missed my delivery. What should I do?",
+          "answer": "If you miss a delivery attempt, the carrier usually tries again or leaves a note with instructions. In some cases your parcel will be available at a nearby pickup point. Please refer to the tracking page for the latest instructions."
+        }
+      ]
+    },
+    {
+      "id": "returns",
+      "name": "Returns & Refunds",
+      "faqs": [
+        {
+          "id": "ret_001",
+          "question": "What is your return policy?",
+          "answer": "Most items can be returned within 30 days of delivery in their original condition with all tags and packaging. Some items, such as intimate wear, software, and personalized products, may be non‑returnable. Please check the return policy on the product page."
+        },
+        {
+          "id": "ret_002",
+          "question": "How do I return a product?",
+          "answer": "To initiate a return, go to the 'My Orders' section, select the order and item you want to return, and click 'Return'. Choose a reason, select a pickup or drop‑off option, and submit the request. You will receive return instructions and, where applicable, a prepaid label."
+        },
+        {
+          "id": "ret_003",
+          "question": "When will I receive my refund?",
+          "answer": "Refunds are processed after the returned item has been received and inspected at our warehouse. This usually takes 3–5 business days after pickup or drop‑off. Once approved, the refund is issued to your original payment method within 3–7 business days, depending on your bank or payment provider."
+        },
+        {
+          "id": "ret_004",
+          "question": "Can I exchange a product instead of returning it?",
+          "answer": "In many cases you can request an exchange for size or color while raising a return. If an exchange is not available, you may return the product for a refund and place a new order for the desired item."
+        },
+        {
+          "id": "ret_005",
+          "question": "My item arrived damaged or defective. What should I do?",
+          "answer": "We are sorry for the inconvenience. Please initiate a return from 'My Orders' and choose 'Damaged' or 'Defective' as the reason. You may be asked to upload photos of the issue. We will arrange a pickup and provide a full refund or replacement."
+        }
+      ]
+    },
+    {
+      "id": "payment",
+      "name": "Payments & Billing",
+      "faqs": [
+        {
+          "id": "pay_001",
+          "question": "What payment methods do you accept?",
+          "answer": "We accept major credit and debit cards, UPI, net banking, and popular digital wallets. Available methods may vary by country. All options are shown on the checkout page."
+        },
+        {
+          "id": "pay_002",
+          "question": "Is my payment information secure?",
+          "answer": "Yes. All payments are processed through secure, PCI‑DSS compliant gateways. Your card details are encrypted using industry‑standard SSL and are not stored on our servers."
+        },
+        {
+          "id": "pay_003",
+          "question": "Why was my payment declined?",
+          "answer": "Payments may be declined due to incorrect card details, insufficient funds, bank restrictions, or security checks. Please verify your details, try a different payment method, or contact your bank for more information."
+        },
+        {
+          "id": "pay_004",
+          "question": "When will I be charged for my order?",
+          "answer": "You are typically charged when your order is confirmed. For some payment methods, an authorization hold may be placed first and captured after your order is shipped."
+        },
+        {
+          "id": "pay_005",
+          "question": "I was charged but my order is not showing. What should I do?",
+          "answer": "If you were charged but cannot see your order, please wait a few minutes and refresh your 'My Orders' page. If the issue persists, contact support with a screenshot of the transaction, and our team will investigate."
+        }
+      ]
+    },
+    {
+      "id": "account",
+      "name": "Account & Security",
+      "faqs": [
+        {
+          "id": "acc_001",
+          "question": "How do I create an account?",
+          "answer": "Click the 'Sign Up' button on the top‑right of the website or app, enter your name, email, and a secure password, and follow the verification steps sent to your email or phone."
+        },
+        {
+          "id": "acc_002",
+          "question": "How do I reset my password?",
+          "answer": "On the login page, click 'Forgot password', enter your registered email address, and follow the link sent to your inbox to create a new password."
+        },
+        {
+          "id": "acc_003",
+          "question": "I am not receiving verification emails. What should I do?",
+          "answer": "Please check your spam or junk folder and ensure that you entered the correct email address. If you still do not receive verification emails, add our address to your contacts or try a different email provider."
+        },
+        {
+          "id": "acc_004",
+          "question": "How do I update my address or phone number?",
+          "answer": "Go to the 'My Account' section and open 'Profile' or 'Address Book'. From there you can add, edit, or remove saved addresses and phone numbers."
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "name": "General & Policies",
+      "faqs": [
+        {
+          "id": "gen_001",
+          "question": "How can I contact customer support?",
+          "answer": "You can contact our support team via the Help Center, email, or in‑app chat. Support hours and contact options are listed on the 'Contact Us' page."
+        },
+        {
+          "id": "gen_002",
+          "question": "What are your customer support hours?",
+          "answer": "Our virtual assistant is available 24/7. Human support agents are typically available from 9:00 AM to 9:00 PM local time, excluding certain holidays."
+        },
+        {
+          "id": "gen_003",
+          "question": "Do you offer gift wrapping or gift messages?",
+          "answer": "For eligible products, you can add a gift message and optional gift wrapping during checkout. Additional charges may apply and will be shown on the order summary."
+        }
+      ]
+    }
+  ]
+}
